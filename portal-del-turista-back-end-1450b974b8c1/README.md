@@ -9,5 +9,6 @@ Backend for user creation, user get, event and promotion creation and get. It us
 BBDD is located in ElephantSQL
 
 Many other functions and methods were obtained from https://stackoverflow.com/ and the order of the code in general was motivated by *Ernesto Oropeza* (Cinetica Consulting Contact) and the assignature's teacher.
-
->To use this code, type "npm install" in the terminal while being in the clientRegisterForm directory to install all dependencies stored in the package.json file
+```
+To use this code, type "npm install" in the terminal while being in the clientRegisterForm directory to install all dependencies stored in the package.json file
+```
