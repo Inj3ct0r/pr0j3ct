@@ -10,5 +10,5 @@ BBDD is located in ElephantSQL
 
 Many other functions and methods were obtained from https://stackoverflow.com/ and the order of the code in general was motivated by *Ernesto Oropeza* (Cinetica Consulting Contact) and the assignature's teacher.
 ```
-To use this code, type "npm install" in the terminal while being in the clientRegisterForm directory to install all dependencies stored in the package.json file
+To use this code, type "npm install" in the terminal while being in the Servidor folder to install all dependencies stored in the package.json file, to run the code type "node index" and it will show the port used for the connection.
 ```
