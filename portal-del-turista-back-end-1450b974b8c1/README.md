@@ -4,9 +4,7 @@
 
 - "Dynamic" table in sql query (https://stackoverflow.com/questions/50399704/nodejs-variable-substitution-for-table-in-sql-query)
 
-Backend for user creation, user get, event and promotion creation and get.
-It uses different endpoints for our required operations
-Also we include "dao" files that stores the sql calls in one place so we avoid having to change every file that uses them
+Backend for user creation, user get, event and promotion creation and get. It uses different endpoints for our required operations, also we include "dao" files that stores the sql calls in one place so we avoid having to change every file that uses them
 
 BBDD is located in ElephantSQL
 
