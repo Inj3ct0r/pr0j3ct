@@ -1,6 +1,6 @@
 # Repositorio Grupo 7 Capstone Project
-Acá les dejo el front y el backend  de mi proyecto en Programación Profesional, tambien les dejo el link del video final para que se pueda ver como luce todo funcionando: https://youtu.be/rwVKTdBI2h8
+Les borre los archivos para que ahora usemos el directorio de forma exclusiva para el proyecto, ya traspase lo que a mi me pareció necesario a la página "borrador" que podriamos utilizar.
 
-Se usó el stack PERN (PostgreSQL, Express, React y Node) para su funcionamiento, en cada carpeta está el README con el detalle de cada parte.
+Igual dejo el link de mi proyecto anterior para que vean que el backend y el frontend funcionan perfect: https://youtu.be/rwVKTdBI2h8
 
-En caso de que quieran correr solo una carpeta en React, tienen que hacer el "cd" correspondiente en la terminal y usar el comando "npm start", este comando buscará el archivo index.js del directorio actual y lo correrá, de esta forma pueden tener mil carpetas y solo ejecutar la que deseen
+En caso de que quieran correr el programa de React, tienen que hacer el "cd" a la carpeta que contiene el folder "src" y los package.json en la terminal y usar el comando "npm start", este comando buscará el archivo index.js del directorio actual y lo correrá, de esta forma pueden tener mil carpetas y solo ejecutar la que deseen.
