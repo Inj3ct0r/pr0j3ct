@@ -3,7 +3,7 @@
 Estos son los archivos con los que trabajaremos de aqui en adelante, en la carpeta **src** se encuentra el archivo **index.js** que contiene la página principal y en la carpeta **components** están los componentes que definen las funcionalidades.
 
 Para correr el archivo se hace lo siguiente: 
-- Descargar los archivos dentro de una carpeta (ej. ```capstone```)
+- Descargar los archivos presionando el botón verde _Code_ que está arriba de los archivos y descargarlos como zip, luego descomprimirlos dentro de una carpeta (ej. ```capstone```)
 - En VScode u otra terminal, usar el comando cd (Change Directory) en la carpeta que contiene los archivos (ej. ```cd capstone```)
 - Ejecutar el comando ```npm install```
    - _Este comando instala todos los modulos de node y las dependencias guardadas en el **package.json** para usar las librerias que necesitamos_
