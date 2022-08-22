@@ -14,4 +14,4 @@ Hecho esto se ejecutará el comando por unos momentos y se abrirá una nueva pá
 
 React es muy sensible a los errores y advertencias, tanto asi que el programa no se muestra hasta que se hayan resuelto, algunas advertencias pueden ignorarse y no pasa nada, para otras es necesario dirigirse a la dirección donde se detectó el error y solucionarla.
 
-![img](./pagina)
+![](photo.png?raw=true)
