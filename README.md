@@ -7,7 +7,7 @@ Todos los archivos provienen del tutorial proporcionado por **bezkoder**, tanto 
 Primero descargamos los archivos presionando el botón verde _**Code**_ que está arriba de los archivos en GitHub y seleccionan descargar como zip, luego descomprimirlos dentro de una carpeta (ej. ```c4pst0n3```)
 
 Para correr el **client** se hace lo siguiente: 
-- En la terminal cmd de VScode u otra terminal, usar el comando cd (Change Directory) con la dirección de la carpeta que contiene los archivos (ej. ```cd c4pst0n3``` o ```cd Documentos\Archivos\capstone``` dependiendo de la ruta)
+- En la terminal cmd de VScode u otra terminal, usar el comando cd (Change Directory) con la dirección de la carpeta que contiene los archivos (ej. ```cd c4pst0n3``` o ```cd Documentos\Archivos\c4pst0n3\client``` dependiendo de la ruta)
 - Ejecutar el comando ```npm install```
    - _Este comando instala todos los modulos de node y las dependencias guardadas en el **package.json** para usar las librerias que necesitamos_
 - Finalmente ejecutar en la terminal ```npm start```
